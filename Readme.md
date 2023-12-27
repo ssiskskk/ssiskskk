@@ -9,6 +9,9 @@
     <a href="https://github.com/ssiskskk/">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
     </a>
+    <a href="https://sketch.com">
+        <img src="https://github.com/ikyih/more-spsific-skill-icons/raw/main/sketch48.svg" alt="GitHub">
+    </a>
 
 
 [![ssiskskk's github stats](https://github-readme-stats.vercel.app/api?username=ssiskskk&show_icons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/ssiskskk/github-readme-stats)
