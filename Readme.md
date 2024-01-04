@@ -25,3 +25,5 @@ https://raw.githubusercontent.com/ssiskskk/Octo-ring-sunset/main/octo-previous.p
 [![](https://raw.githubusercontent.com/ssiskskk/Octo-ring-sunset/main/octo-bottoom.png)](https://octo-ring.com/)
 
 <img src="https://myreadme.vercel.app/api/embed/ssiskskk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
