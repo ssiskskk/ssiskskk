@@ -27,5 +27,5 @@ https://raw.githubusercontent.com/ssiskskk/Octo-ring-sunset/main/octo-previous.p
 <img src="https://myreadme.vercel.app/api/embed/ssiskskk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <h4>Visitors</h4>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ssiskskk.ssiskskk)
+(https://visitor-badge.laobi.icu/badge?page_id=ssiskskk.ssiskskk)
 
